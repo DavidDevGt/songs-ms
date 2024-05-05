@@ -3,7 +3,6 @@
     "indexName": "wolsito",
     "songs": [
       {
-        "id": 1,
         "type": "song",
         "name": "A Mi Lao",
         "author": "Desconocido",
@@ -12,16 +11,6 @@
         "time": 163
       },
       {
-        "id": 2,
-        "type": "song",
-        "name": "Echao’ a perder",
-        "author": "Desconocido",
-        "speed": 1,
-        "file": "https://github.com/DavidDevGt/songs-ms/blob/main/walls/echao-a-perder.dfpwm",
-        "time": 168
-      },
-      {
-        "id": 3,
         "type": "song",
         "name": "En los huesos (feat. Costa)",
         "author": "Desconocido",
@@ -30,34 +19,6 @@
         "time": 150
       },
       {
-        "id": 4,
-        "type": "song",
-        "name": "no sé de amor (feat. Leo Rizzi)",
-        "author": "Desconocido",
-        "speed": 1,
-        "file": "https://github.com/DavidDevGt/songs-ms/blob/main/walls/no-se-de-amor.dfpwm",
-        "time": 196
-      },
-      {
-        "id": 5,
-        "type": "song",
-        "name": "NÁPOLES",
-        "author": "Desconocido",
-        "speed": 1,
-        "file": "https://github.com/DavidDevGt/songs-ms/blob/main/walls/NAPOLES.dfpwm",
-        "time": 166
-      },
-      {
-        "id": 6,
-        "type": "song",
-        "name": "Quédate, mi corazón",
-        "author": "Desconocido",
-        "speed": 1,
-        "file": "https://github.com/DavidDevGt/songs-ms/blob/main/walls/Quedate-Mi-Corazon.dfpwm",
-        "time": 166
-      },
-      {
-        "id": 7,
         "type": "song",
         "name": "Walls - Cuesta Arriba (Videoclip Oficial)",
         "author": "Desconocido",
