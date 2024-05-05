@@ -1,0 +1,63 @@
+{
+    "latestVersion": "1.0.0",
+    "indexName": "wolsito",
+    "songs": [
+      {
+        "type": "song",
+        "name": "A Mi Lao",
+        "author": "Desconocido",
+        "speed": 1,
+        "file": "URL_A_MI_LAO",
+        "time": 163
+      },
+      {
+        "type": "song",
+        "name": "Echao’ a perder",
+        "author": "Desconocido",
+        "speed": 1,
+        "file": "URL_ECHAO_A_PERDER",
+        "time": 168
+      },
+      {
+        "type": "song",
+        "name": "En los huesos (feat. Costa)",
+        "author": "Desconocido",
+        "speed": 1,
+        "file": "URL_EN_LOS_HUESOS",
+        "time": 150
+      },
+      {
+        "type": "song",
+        "name": "no sé de amor (feat. Leo Rizzi)",
+        "author": "Desconocido",
+        "speed": 1,
+        "file": "URL_NO_SE_DE_AMOR",
+        "time": 196
+      },
+      {
+        "type": "song",
+        "name": "NÁPOLES",
+        "author": "Desconocido",
+        "speed": 1,
+        "file": "URL_NAPOLES",
+        "time": 166
+      },
+      {
+        "type": "song",
+        "name": "Quédate, mi corazón",
+        "author": "Desconocido",
+        "speed": 1,
+        "file": "URL_QUEDATE_MI_CORAZON",
+        "time": 166
+      },
+      {
+        "type": "song",
+        "name": "Walls - Cuesta Arriba (Videoclip Oficial)",
+        "author": "Desconocido",
+        "speed": 1,
+        "file": "URL_WALLS",
+        "time": 170
+      }
+    ]
+  }
+  
